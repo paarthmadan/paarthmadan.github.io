@@ -1,0 +1,164 @@
+.jumbotron{ 
+	background-color: #FFF;
+	color: #EE3846;
+	font-family: 'Open Sans', sans-serif;
+}
+
+.jumbotron > h1{
+	font-size: 60px;
+}
+
+.jumbotron > div> h2{
+	font-size: 35px;
+}
+
+#nav-space{
+	width: 100vw;
+	height: 18vh;
+}
+
+.boldText{
+	font-weight: 600;
+}
+
+.navbar-brand{
+	color: #777 !important;
+	font-weight: 300;
+	font-size: 24px;
+	-webkit-transition: all 250ms ease;
+	-moz-transition: all 250ms ease;
+	-ms-transition: all 250ms ease;
+	-o-transition: all 250ms ease;
+	transition: all 250ms ease;
+}
+
+.navbar-brand:hover{
+	color: #EE3846 !important;
+	font-weight: 600;
+	-webkit-transition: all 250ms ease;
+	-moz-transition: all 250ms ease;
+	-ms-transition: all 250ms ease;
+	-o-transition: all 250ms ease;
+	transition: all 250ms ease;
+}
+
+.navbar{
+	font-family: 'Open Sans', sans-serif;
+}
+
+
+.navbar-default .navbar-nav > li > a{
+	font-weight: 200;
+	font-size: 16px;
+	margin-top: 5px;
+	color:#777;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #EE3846;
+    -webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+.icon-bar{
+	background-color: #EE3846 !important;
+}
+
+.downArrowIcon{
+	margin-top: 25px;
+	font-size: 60px;
+	color: #EE3846;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+.downArrowIcon:hover{
+	color: #BE2C38;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+;
+}
+
+#first-page{
+	height: 78vh;
+}
+
+#second-page{
+	height: 100vh;
+}
+
+.project-card{
+	color: white;
+	margin-top: 25px;
+	-webkit-transition: all 500ms ease;
+	-moz-transition: all 500ms ease;
+	-ms-transition: all 500ms ease;
+	-o-transition: all 500ms ease;
+	transition: all 500ms ease;
+}
+
+.card-contents{
+	padding: 10px;
+	z-index: 0;
+}
+
+#project-one{
+	background-color: #EE3846;
+}
+
+#project-one:hover{
+	background-color: #ec2230;
+}
+
+#project-two{
+	background-color: #2196F3;
+}
+#project-two:hover{
+	background-color: #1976D2;
+}
+
+#project-three{
+	background-color: #4CAF50;
+}
+
+#project-three:hover{
+	background-color: #388E3C;
+}
+
+#project-four{
+	background-color: #4DD0E1;
+}
+
+#project-four:hover{
+	background-color: #00BCD4;
+}
+
+.image{
+	max-width: 65%;
+}
+
+.card-contents > p{
+	font-size: 18px;
+}
+
+#messenger-image{
+	max-width: 19.7%;
+}
+
+
+
