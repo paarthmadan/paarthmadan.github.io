@@ -1,18 +1,3 @@
-a:link{
-	text-decoration: none;
-	color: white;
-}
-
-a:hover{
-	text-decoration: none;
-	color: white;
-}
-
-a:active{
-	text-decoration: none;
-	color: white;
-}
-
 .jumbotron{ 
 	background-color: #FFF;
 	color: #EE3846;
@@ -116,13 +101,13 @@ a:active{
 #second-page{
 	height: 100vh;
 }
+
 /*
 #contact-page{
 	height: 100vh;
 }*/
 
 .project-card{
-	color: white;
 	margin-top: 25px;
 	-webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
@@ -132,6 +117,7 @@ a:active{
 }
 
 .card-contents{
+	color: white;
 	padding: 10px;
 	z-index: 0;
 }
@@ -179,5 +165,18 @@ a:active{
 	max-width: 19.7%;
 }
 
+a:link{
+	text-decoration: none;
+	color: white;
+}
 
+a:hover{
+	text-decoration: none;
+	color: white;
+}
+
+a:active{
+	text-decoration: none;
+	color: white;
+}
 
