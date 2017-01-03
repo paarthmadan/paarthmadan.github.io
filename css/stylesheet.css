@@ -99,13 +99,13 @@
 }
 
 #second-page{
-	height: 100vh;
+	/*height: 145vh;*/
 }
 
-/*
+
 #contact-page{
-	height: 100vh;
-}*/
+	height: 90vh;
+}
 
 .project-card{
 	margin-top: 25px;
@@ -138,19 +138,19 @@
 }
 
 #project-three{
-	background-color: #4CAF50;
+	background-color: #3F51B5;
 }
 
 #project-three:hover{
-	background-color: #388E3C;
+	background-color: #303F9F;
 }
 
 #project-four{
-	background-color: #4DD0E1;
+	background-color: #00BCD4;
 }
 
 #project-four:hover{
-	background-color: #00BCD4;
+	background-color: #00ACC1;
 }
 
 .image{
