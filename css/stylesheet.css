@@ -36,7 +36,7 @@ COLOURS --> ACCENT: #EE3846
 
 .navbar-brand{
 	color: #777 !important;
-	font-weight: 300;
+	font-family: 'Gloria Hallelujah', cursive;
 	font-size: 24px;
 	-webkit-transition: all 250ms ease;
 	-moz-transition: all 250ms ease;
@@ -47,7 +47,6 @@ COLOURS --> ACCENT: #EE3846
 
 .navbar-brand:hover{
 	color: #EE3846 !important;
-	font-weight: 600;
 	-webkit-transition: all 250ms ease;
 	-moz-transition: all 250ms ease;
 	-ms-transition: all 250ms ease;
@@ -252,4 +251,6 @@ a:active{
 	font-weight: 300;
 	margin-bottom: 10px;
 }
+
+
 
