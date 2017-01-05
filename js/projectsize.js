@@ -15,10 +15,9 @@ $(document).ready(function() {
             contentHeight -= 40;
         }
 
-		$('.card-contents').each(function(index){
-			$(this).height(contentHeight);
+        $('.project-card').each(function(index){
+            $(this).css("min-height", maxHeight); 
         });
-
 
     }).resize();
 });
