@@ -10,7 +10,7 @@ COLOURS --> ACCENT: #EE3846
 .jumbotron{ 
 	background-color: #FFF;
 	color: #EE3846;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 .jumbotron > h1{
@@ -28,6 +28,10 @@ COLOURS --> ACCENT: #EE3846
 
 .boldText{
 	font-weight: 600;
+}
+
+#subtitle{
+	font-weight: 300;
 }
 
 .navbar-brand{
@@ -52,7 +56,7 @@ COLOURS --> ACCENT: #EE3846
 }
 
 .navbar{
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
 }
 
 
