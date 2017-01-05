@@ -30,7 +30,7 @@ COLOURS --> ACCENT: #EE3846
 	font-weight: 600;
 }
 
-#subtitle{
+.light{
 	font-weight: 300;
 }
 
@@ -192,4 +192,36 @@ a:active{
 	text-decoration: none;
 	color: white;
 }
+
+.contact-box{
+	padding: 10px;
+}
+
+.inner-contact-box{
+	padding: 10px;
+	background-color: black;
+	border-radius: 5px;
+}
+
+.icon-link, .icon-link:visited{
+	text-decoration: none;
+	color: inherit;
+}
+
+.icon-link:hover{
+	color: #BE2C38;
+}
+
+#mail, #mail:visited{
+	color: inherit;
+}
+
+#mail:hover{
+	color: #BE2C38;
+}
+
+#contact-container{
+	margin-top: 10px;
+}
+
 
