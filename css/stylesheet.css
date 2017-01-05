@@ -195,7 +195,7 @@ a:active{
 }
 
 .contact-box{
-	padding: 30px;
+	padding: 10px;
 }
 
 .inner-contact-box{
@@ -204,25 +204,52 @@ a:active{
 	border-radius: 5px;
 }
 
+
 .icon-link, .icon-link:visited{
 	text-decoration: none;
 	color: inherit;
+	-webkit-transition: all 100ms ease;
+	-moz-transition: all 100ms ease;
+	-ms-transition: all 100ms ease;
+	-o-transition: all 100ms ease;
+	transition: all 100ms ease;	
 }
 
 .icon-link:hover{
 	color: #BE2C38;
+	-webkit-transition: all 100ms ease;
+	-moz-transition: all 100ms ease;
+	-ms-transition: all 100ms ease;
+	-o-transition: all 100ms ease;
+	transition: all 100ms ease;	
 }
 
 #mail, #mail:visited{
 	color: inherit;
+	-webkit-transition: all 100ms ease;
+	-moz-transition: all 100ms ease;
+	-ms-transition: all 100ms ease;
+	-o-transition: all 100ms ease;
+	transition: all 100ms ease;
 }
 
 #mail:hover{
 	color: #BE2C38;
+	-webkit-transition: all 100ms ease;
+	-moz-transition: all 100ms ease;
+	-ms-transition: all 100ms ease;
+	-o-transition: all 100ms ease;
+	transition: all 100ms ease;
 }
 
 #contact-container{
 	margin-top: 15px;
 }
 
+.footer{
+	color: #EE3846;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 300;
+	margin-bottom: 10px;
+}
 
