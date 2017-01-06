@@ -193,51 +193,51 @@ a:active{
 }
 
 .contact-box{
-	padding: 10px;
+	padding: 10px 25px 10px 25px;
 }
 
 .inner-contact-box{
 	padding: 10px;
 	box-shadow: 1px 1px 5px #888888;
-	border-radius: 5px;
+	border-radius: 3px;
 }
 
 
 .icon-link, .icon-link:visited{
 	text-decoration: none;
-	color: inherit;
-	-webkit-transition: all 100ms ease;
-	-moz-transition: all 100ms ease;
-	-ms-transition: all 100ms ease;
-	-o-transition: all 100ms ease;
-	transition: all 100ms ease;	
+	color: #EE3846;
+	-webkit-transition: all 150ms ease;
+	-moz-transition: all 150ms ease;
+	-ms-transition: all 150ms ease;
+	-o-transition: all 150ms ease;
+	transition: all 150ms ease;	
 }
 
 .icon-link:hover{
 	color: #BE2C38;
-	-webkit-transition: all 100ms ease;
-	-moz-transition: all 100ms ease;
-	-ms-transition: all 100ms ease;
-	-o-transition: all 100ms ease;
-	transition: all 100ms ease;	
+	-webkit-transition: all 150ms ease;
+	-moz-transition: all 150ms ease;
+	-ms-transition: all 150ms ease;
+	-o-transition: all 150ms ease;
+	transition: all 150ms ease;	
 }
 
 #mail, #mail:visited{
-	color: inherit;
-	-webkit-transition: all 100ms ease;
-	-moz-transition: all 100ms ease;
-	-ms-transition: all 100ms ease;
-	-o-transition: all 100ms ease;
-	transition: all 100ms ease;
+	color: #EE3846;
+	-webkit-transition: all 150ms ease;
+	-moz-transition: all 150ms ease;
+	-ms-transition: all 150ms ease;
+	-o-transition: all 150ms ease;
+	transition: all 150ms ease;
 }
 
 #mail:hover{
 	color: #BE2C38;
-	-webkit-transition: all 100ms ease;
-	-moz-transition: all 100ms ease;
-	-ms-transition: all 100ms ease;
-	-o-transition: all 100ms ease;
-	transition: all 100ms ease;
+	-webkit-transition: all 150ms ease;
+	-moz-transition: all 150ms ease;
+	-ms-transition: all 150ms ease;
+	-o-transition: all 150ms ease;
+	transition: all 150ms ease;
 }
 
 #contact-container{
