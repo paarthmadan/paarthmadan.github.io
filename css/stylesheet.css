@@ -222,7 +222,7 @@ a:active{
 	transition: all 150ms ease;	
 }
 
-#tweet, #tweet:visited #mail, #mail:visited{
+#tweet, #tweet:visited, #mail, #mail:visited{
 	color: #EE3846;
 	-webkit-transition: all 150ms ease;
 	-moz-transition: all 150ms ease;
