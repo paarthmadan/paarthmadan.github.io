@@ -7,6 +7,11 @@ COLOURS --> ACCENT: #EE3846
 
 */
 
+.navbar-nav li>a:hover,.navbar-nav li>a:focus,.navbar-nav li.active {
+    background-color: black;
+    color: #EE3846;
+}
+
 .jumbotron{ 
 	background-color: #FFF;
 	color: #EE3846;
@@ -35,7 +40,7 @@ COLOURS --> ACCENT: #EE3846
 
 .navbar-brand{
 	color: #777 !important;
-	font-family: 'Gloria Hallelujah', cursive;
+	/*font-family: 'Gloria Hallelujah', cursive;*/
 	font-size: 24px;
 	-webkit-transition: all 250ms ease;
 	-moz-transition: all 250ms ease;
