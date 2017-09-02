@@ -76,7 +76,7 @@ COLOURS --> ACCENT: #EE3846
 }
 
 
-.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:active {
     color: #EE3846;
     -webkit-transition: all 500ms ease;
 	-moz-transition: all 500ms ease;
@@ -238,5 +238,15 @@ a:active{
 	margin-bottom: 10px;
 }
 
+.navbar-default .navbar-nav > .active{
+   color: #EE3846;
+   background: #f8f8f8;
+ }
+ .navbar-default .navbar-nav > .active > a, 
+ .navbar-default .navbar-nav > .active > a:hover, 
+ .navbar-default .navbar-nav > .active > a:focus {
+      color: #EE3846;
+      background: #f8f8f8;
+ }
 
 
