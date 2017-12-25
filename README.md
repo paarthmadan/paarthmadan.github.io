@@ -5,3 +5,6 @@
 - One-pager with preliminary information, projects and contact
 - Image Animation, mapped to scroll
 - Minimal
+### Future Re-design (Mockup):
+![alt text](https://raw.githubusercontent.com/paarthmadan/paarthmadan.github.io/master/images/mockup_1_export.jpg)
+
