@@ -10,6 +10,11 @@ h2{
 	font-size: 1.75em;
 }
 
+h3{
+	font-size: 2.25em;
+	line-height: 1.125em;
+}
+
 .panel{
 	height: 100vh;
 	border-radius: 0;
@@ -18,10 +23,12 @@ h2{
 
 #left-panel{
 	background-color: #F3F3F3;
+	padding: 0 auto;
 }
 
 #right-panel{
 	background-color: #1565C0;
+	padding: 0 auto;
 }
 
 #title{
@@ -98,6 +105,31 @@ h2{
 	text-align: center;
 }
 
+#right-panel > .contact-button{
+	background-color: #f3f3f3;
+	padding:0 auto;
+	margin-top: 2vh;
+}
+
+.contact-wrapper{
+	display:table;
+	padding: 2vh 0;
+	margin: 0 auto;
+	
+}
+
+.contact-text{
+	float: left;
+	margin-right: 1vw;
+	color: #ff4081;
+}
+
+.contact-icon{
+	float: right;
+	margin: auto 1vw;
+	color: #ff4081;
+	vertical-align: middle;
+}
 
 
 
