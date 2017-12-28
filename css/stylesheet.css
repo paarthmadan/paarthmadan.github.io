@@ -15,6 +15,10 @@ h3{
 	line-height: 1.125em;
 }
 
+p{
+	font-size: 1em;
+}
+
 .panel{
 	height: 100vh;
 	border-radius: 0;
@@ -108,7 +112,7 @@ h3{
 #right-panel > .contact-button{
 	background-color: #f3f3f3;
 	padding:0 auto;
-	margin-top: 2vh;
+	margin-top: 2.5vh;
 }
 
 .contact-wrapper{
