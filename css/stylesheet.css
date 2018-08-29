@@ -32,12 +32,12 @@ p{
 }
 
 #title{
-	color: #1565C0;	
+	color: #1565C0;
 	text-align: center;
 }
 
 #contact{
-	color: #FFF;	
+	color: #FFF;
 	text-align: center;
 }
 
@@ -93,11 +93,11 @@ p{
 #red{
 	background-color:#f64500;
 }
-#yellow{ 
-	background-color:#ebc71f; 
+#yellow{
+	background-color:#ebc71f;
 }
-#green{ 
-	background-color:#31bb37; 
+#green{
+	background-color:#31bb37;
 }
 
 .character-slug{
@@ -109,13 +109,21 @@ p{
 	background-color: #f3f3f3;
 	padding:0 auto;
 	margin-top: 2.5vh;
+	-moz-transition: all .2s ease-in;
+	-o-transition: all .2s ease-in;
+	-webkit-transition: all .2s ease-in;
+	transition: all .2s ease-in;
+}
+
+#right-panel > .contact-button:hover{
+	background-color: #dadada;
 }
 
 .contact-wrapper{
 	display:table;
 	padding: 2vh 0;
 	margin: 0 auto;
-	
+
 }
 
 .contact-text{
@@ -130,13 +138,3 @@ p{
 	color: #ff4081;
 	vertical-align: middle;
 }
-
-
-
-
-
-
-
-
-
-
