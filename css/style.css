@@ -1,0 +1,88 @@
+body {
+	margin: 0;
+	background-color: #FAFAFA;
+}
+
+main {
+	height: 100vh;
+	font-family: 'Cormorant Garamond', serif;
+	font-style: normal;
+	font-weight: 400;
+	line-height: normal;
+	display: flex;
+	justify-content: space-around;
+	margin: auto 10%;
+}
+
+h1 {
+  font-size: 2.75em;
+	color: #9B51E0;
+	font-weight: 400;
+}
+
+p {
+  font-size: 1.4em;
+	line-height: 1.35em;
+}
+
+section#container {
+	height: 50vh;
+	width: 70vw;
+}
+
+nav {
+	min-width: 40vw;
+	width: auto;
+	display: table;
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline;
+	margin-right: 4vw;
+}
+
+nav ul li a img {
+	width: 35px;
+	height: auto;
+}
+
+section p a {
+	text-decoration: none;
+	display: inline-block;
+	line-height: 0.75em;
+	border-bottom: 2px dashed #999;
+	color: black;
+}
+
+main img#cube {
+  display: none;
+	float: right;
+}
+
+@media (min-width: 1000px) {
+  p {
+    font-size: 1.6em;
+  }
+
+  h1 {
+    font-size: 3em;
+  }
+
+  section#container {
+    width: 40vw;
+  }
+
+  main {
+    align-items: center;
+  }
+
+  main img#cube {
+    display: block;
+  }
+}
