@@ -25,11 +25,6 @@ p {
 	line-height: 1.35em;
 }
 
-section#container {
-	height: 50vh;
-	width: 70vw;
-}
-
 nav {
 	min-width: 40vw;
 	width: auto;
